@@ -26,8 +26,12 @@
     text-align: center;
     }
     .single{
-    margin-top: 50px;
+    margin-top: 45px;
 
+}
+.feature {
+    padding-top: 55px;
+    padding-bottom: 95px;
 }
 .single-text h2{
     margin-bottom: 15px;
@@ -36,6 +40,16 @@
 .single-text p{
     font-size: 18px;
    
+}
+.contact{
+   
+    padding-top: 55px;
+    padding-bottom: 50px;
+}
+footer{
+    padding-bottom: 70px;
+   
+    
 }
 
  }
@@ -55,6 +69,10 @@
     margin-top: 9px;
     text-align: center;
     }
+    .feature {
+    padding-top: 45px;
+    padding-bottom: 90px;
+}
 
  }
 
@@ -71,6 +89,10 @@
     margin-top: 9px;
     text-align: center;
     }
+    .feature {
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
 
 
 
